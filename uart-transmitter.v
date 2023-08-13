@@ -7,12 +7,12 @@
 // Department:     Electronics And Communication Engineering, B.Tech
 // Author:         Samarth Gautam
 // Authors' Email: samarthgautam2002@gmail.com
-// Create Date:    12:56:10 07/09/2023 
+// Create Date:    12:56:10 07/01/2023 
 // Module Name:    uart_transmiter 
 //////////////////////////////////////////////////////////////////////////////////
 // Release History
-// 06/22/2021 Samarth Gautam UART Transmiter
-// 30/07/2021 Samarth Gautam	two always blocks 
+// 07/01/2023 Samarth Gautam UART Transmiter
+// 09/01/2023 Samarth Gautam	two always blocks 
 //////////////////////////////////////////////////////////////////////////////////
 // Keywords:       UART PROTOCOL. UART Transmiter
 //////////////////////////////////////////////////////////////////////////////////
